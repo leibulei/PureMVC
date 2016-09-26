@@ -1,5 +1,5 @@
-.sln
+*.sln
 Library
 obj
-.csproj
-.userprefs
+*.csproj
+*.userprefs
